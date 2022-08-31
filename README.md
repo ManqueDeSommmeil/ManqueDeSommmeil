@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...videogame dev and web dev
 - 🌱 I’m currently learning ...machine learning, database models and web developpement
 - 💞️ I’m not looking for collaboration atm
-- 📫 How to reach me ...@SleepDeprvtion on twitter or SleepDeprivation667@protonmail.com
+- 📫 How to reach me ...@SleepDeprvtion on twitter or ManqueDeSommeil@protonmail.com
 
 <!---
 ManqueDeSommmeil/ManqueDeSommmeil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
