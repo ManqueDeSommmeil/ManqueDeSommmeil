@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManqueDeSommmeil
 - 👀 I’m interested in ...videogame dev and web dev
-- 🌱 I’m currently learning ...machine learning
+- 🌱 I’m currently learning ...machine learning, database models and web developpement
 - 💞️ I’m not looking for collaboration atm
 - 📫 How to reach me ...@SleepDeprvtion on twitter or SleepDeprivation667@protonmail.com
 
