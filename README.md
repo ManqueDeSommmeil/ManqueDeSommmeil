@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManqueDeSommmeil
-- 👀 I’m interested in ...videogame dev and web dev
+- 👀 I’m interested in ...pretty much everything, from hardware hacking to fullstack webdev with some gamedev bg
 - 🌱 I’m currently learning ...machine learning, database models and web developpement
 - 💞️ I’m not looking for collaboration atm
 - 📫 How to reach me ...@SleepDeprvtion on twitter or ManqueDeSommeil@protonmail.com
